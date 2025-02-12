@@ -1,0 +1,15 @@
+{
+    "responses": [
+        { "question": "hello", "answer": "Hello! How can I assist you today?" },
+        { "question": "how are you", "answer": "I'm just a bot, but I'm doing great! Thanks for asking." },
+        { "question": "what is your name", "answer": "I'm your AI assistant!" },
+        { "question": "who created you", "answer": "I was created by a developer to assist you!" },
+        { "question": "what can you do", "answer": "I can answer your questions and assist with various topics!" },
+        { "question": "tell me a joke", "answer": "Why don’t skeletons fight each other? They don’t have the guts!" },
+        { "question": "how old are you", "answer": "I exist in the digital world, so I don't age!" },
+        { "question": "what is 2 + 2", "answer": "2 + 2 is 4!" },
+        { "question": "where are you from", "answer": "I'm from the cloud!" },
+        { "question": "what is ai", "answer": "AI stands for Artificial Intelligence, a branch of computer science that creates smart systems." },
+        { "question": "bye", "answer": "Goodbye! Have a wonderful day!" }
+    ]
+}

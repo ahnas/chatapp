@@ -22,7 +22,6 @@ class ApiRootView(APIView):
         api_urls = {
             'register': 'http://127.0.0.1:8000/api/register/',
             'login': 'http://127.0.0.1:8000/api/login/',
-            'chat' : 'http://127.0.0.1:8000/chat/chatbot/'
         }
         return Response(api_urls)
 
