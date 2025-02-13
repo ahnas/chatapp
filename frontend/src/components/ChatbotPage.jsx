@@ -8,7 +8,6 @@ const ChatbotPage = () => {
     const [suggestions, setSuggestions] = useState([]);
 
     useEffect(() => {
-        // Load responses from JSON file
         fetch("/responses.json")
             .then(response => response.json())
             .then(data => {
